@@ -1,5 +1,4 @@
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
+#支持私
+ZhaoYouBin2024/Stirling-PDF/commit/0d1a17c38add7e529c0c1336c7ae90f83a35882e
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+--platform=linux/amd64
