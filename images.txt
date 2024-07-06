@@ -1,4 +1,4 @@
 #支持私
-ZhaoYouBin2024/Stirling-PDF/commit/0d1a17c38add7e529c0c1336c7ae90f83a35882e:
+ZhaoYouBin2024/Stirling-PDF/0d1a17c38add7e529c0c1336c7ae90f83a35882e:
 #支持指定架构
 --platform=linux/amd64
